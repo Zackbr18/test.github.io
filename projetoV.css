@@ -28,6 +28,10 @@
     display: none;
 }
 
+.Greetings::-webkit-scrollbar{
+    background-color: transparent;
+}
+
 body{
     background-color: #D39B9B;
     margin: 0;
